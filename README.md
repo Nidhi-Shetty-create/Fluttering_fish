@@ -23,7 +23,7 @@ Fluttering Fish is an exciting underwater adventure game where players control a
 ### 🔧 Installation Steps
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/fluttering-fish.git
+   git clone https://github.com/Nidhi-Shetty-create/Fluttering_fish.git
    ```
 2. Navigate to the project directory:
    ```sh
