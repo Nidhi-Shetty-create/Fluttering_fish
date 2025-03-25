@@ -51,15 +51,7 @@ Fluttering Fish is an exciting underwater adventure game where players control a
 
 ---
 
-## 📸 Screenshots
 
-Here are some visuals of the game:
-
-![Welcome Screen](screenshots/image1.png)
-![Gameplay](screenshots/image2.png)
-![Game Over](screenshots/image3.png)
-
----
 
 ## 🚀 Future Improvements
 - 🎭 More playable characters.
