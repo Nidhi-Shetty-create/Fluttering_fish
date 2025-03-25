@@ -23,11 +23,11 @@ Fluttering Fish is an exciting underwater adventure game where players control a
 ### 🔧 Installation Steps
 1. Clone this repository:
    ```sh
-   git clone https://github.com/Nidhi-Shetty-create/Fluttering_fish.git
+   git clone https://github.com/yourusername/fluttering-fish.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd fluttering-fish
+   cd FLUTTERING FISH
    ```
 3. Install dependencies:
    ```sh
@@ -47,62 +47,17 @@ Fluttering Fish is an exciting underwater adventure game where players control a
 - The game gets harder as you progress.
 - Try to get the highest score possible!
 
----
 
-## 📜 Game Code
-
-### `fish_finallll.py`
-```python
-import random
-import sys
-import pygame
-from pygame.locals import *
-
-# Global Variables for the game
-FPS = 32
-SCREENWIDTH = 800
-SCREENHEIGHT = 600
-SCREEN = pygame.display.set_mode((SCREENWIDTH, SCREENHEIGHT))
-GROUNDY = SCREENHEIGHT * 0.8
-
-# Load assets
-GAME_SPRITES = {}
-GAME_SOUNDS = {}
-BACKGROUND = 'sprites/background1.jpg'
-PIPE = 'sprites/pipe.png'
-PLAYER = 'sprites/fish.png'
-
-# Game Functions
-def welcomeWindow():
-    """Shows welcome screen"""
-    pass  # Implement screen logic
-
-def mainGame():
-    """Main game logic"""
-    pass  # Implement game logic
-
-def isCollide():
-    """Check for collision"""
-    pass  # Implement collision detection
-
-def gameOver(score):
-    """Displays game over screen"""
-    pass  # Implement game over screen
-
-if __name__ == "__main__":
-    pygame.init()
-    FPSCLOCK = pygame.time.Clock()
-    pygame.display.set_caption('FLUTTERING FISH')
-    while True:
-        welcomeWindow()
-        mainGame()
-```
 
 ---
 
 ## 📸 Screenshots
 
-![Game Screenshot](sprites/welcome.jpg)
+Here are some visuals of the game:
+
+![Welcome Screen](screenshots/image1.png)
+![Gameplay](screenshots/image2.png)
+![Game Over](screenshots/image3.png)
 
 ---
 
@@ -111,5 +66,4 @@ if __name__ == "__main__":
 - 🌅 Additional underwater themes.
 - 🏆 Leaderboard for high scores.
 
----
 
